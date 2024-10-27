@@ -1,0 +1,15 @@
+streamlit
+streamlit-calendar
+pip-tools
+requests
+selenium
+webdriver-manager
+pymupdf
+streamlit-shadcn-ui
+huggingface_hub[cli]
+firebase_admin
+streamlit-authenticator
+randomcolor
+pdfplumber
+PyYAML
+
